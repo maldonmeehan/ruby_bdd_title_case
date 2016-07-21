@@ -30,20 +30,28 @@ Project: Create Ruby method on the String class that takes a string of word(s) f
 * Run ruby app.rb in your project directory to start Sinatra
 * Open a browser of your choice to localhost:4567
 
-## Known Bugs
+## Setup/Installation Requirements
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+* Clone this repository onto your computer
+* Run rspec to see specs pass
+* Run ruby app.rb in your project directory to start Sinatra
+* Open a browser of your choice to localhost:4567
+
+## Known Bugs
+No known bugs
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you have any questions please feel free to contact Maldon or Noah on github
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* Ruby
+* Postgres
+* Sinatra
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT License
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016, **Maldon Meehan & Noah Yasskin, Epicodus**
