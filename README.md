@@ -1,12 +1,14 @@
-##_Title Case_
+## Ruby Behavior-Driven Development - Title Case
 
-#### _{Brief description of application}, {June 27, 2016}_
+#### An project to learn Ruby BDD, June 27, 2016
 
-#### By _**{Noah Yasskin & Maldon Meehan}**_
+#### By Maldon Meehan & Noah Yasskin
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+Lesson: Behavior-Driven Development (BDD), Red-Green-Refactor, RSpec, Ruby Code Styling, Naming Conventions and commits.
+
+Project: Create Ruby method on the String class that takes a string of word(s) from the user and returns it in title case.
 
 ## Specifications
 | Behavior        | Input       | Output  |
@@ -22,13 +24,11 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Clone this repository onto your computer
+* Run rspec to see tests pass
+* Run bundle install in your project directory to ensure all gems are installed.
+* Run ruby app.rb in your project directory to start Sinatra
+* Open a browser of your choice to localhost:4567
 
 ## Known Bugs
 
